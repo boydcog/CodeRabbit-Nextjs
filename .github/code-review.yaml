@@ -20,6 +20,11 @@ reviews:
       "!**/coverage/**" # coverage 제외
       "!**/lib/**" # lib 제외
 
+  branch_filters:
+    include:
+      - "dev/**"
+      - "staging/**"
+      - "feature/**"
   path_instructions:
     path: "*"
     instructions: |
