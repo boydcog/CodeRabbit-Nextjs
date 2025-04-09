@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "coderabbit_nextjs/node_modules/.bin/next dev --turbopack",
-    "build": "coderabbit_nextjs/node_modules/.bin/next build",
-    "start": "coderabbit_nextjs/node_modules/.bin/next start",
-    "lint": "coderabbit_nextjs/node_modules/.bin/next lint"
+    "dev": "node_modules/.bin/next dev --turbopack",
+    "build": "node_modules/.bin/next build",
+    "start": "node_modules/.bin/next start",
+    "lint": "node_modules/.bin/next lint"
   },
   "dependencies": {
     "react": "^19.0.0",
