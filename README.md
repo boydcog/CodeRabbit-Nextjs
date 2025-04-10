@@ -37,10 +37,9 @@ Unlike GitHub Copilot, CodeRabbit specializes in **code review and quality manag
 
 The following issues detail the integration process with CodeRabbit:
 
-1. [Initial Project Setup](https://github.com/boydcog/CodeRabbit-Nextjs/issues/1)
-2. [Configure and Integrate CodeRabbit](https://github.com/boydcog/CodeRabbit-Nextjs/issues/2)
-3. [Apply CodeRabbit Recommendations](https://github.com/boydcog/CodeRabbit-Nextjs/issues/3)
-
+1. [Initial Project](https://github.com/boydcog/CodeRabbit-Nextjs/issues/1)
+2. [Configuration](https://github.com/boydcog/CodeRabbit-Nextjs/issues/2)
+3. [Implementation](https://github.com/boydcog/CodeRabbit-Nextjs/issues/3)
 ---
 
 ## 도구 소개
@@ -78,6 +77,6 @@ CodeRabbit은 GitHub Copilot과 달리 코드 생성보다는 **코드 리뷰와
 
 다음의 Issue를 통해 CodeRabbit과 실제 연동 과정을 확인할 수 있습니다.
 
-1. [Initial Project 설정](https://github.com/boydcog/CodeRabbit-Nextjs/issues/1)
-2. [CodeRabbit 환경 설정 및 연동](https://github.com/boydcog/CodeRabbit-Nextjs/issues/2)
-3. [CodeRabbit의 권장사항 적용](https://github.com/boydcog/CodeRabbit-Nextjs/issues/3)
+1. [프로젝트 초기 설정](https://github.com/boydcog/CodeRabbit-Nextjs/issues/1)
+2. [CodeRabbit 스크립트 정의](https://github.com/boydcog/CodeRabbit-Nextjs/issues/2)
+3. [코드리뷰](https://github.com/boydcog/CodeRabbit-Nextjs/issues/3)
