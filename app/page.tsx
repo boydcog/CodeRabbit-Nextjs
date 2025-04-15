@@ -8,6 +8,11 @@ type Post = {
     content: string;
 };
 
+/**
+ * Renders a bulletin board interface for viewing, adding, editing, and deleting posts.
+ *
+ * Displays a list of posts with options to edit or remove each post, and provides a button to add new posts.
+ */
 export default function Home() {
     const [posts, setPosts] = useState<Post[]>([
         {id: 1, title: "Welcome to the Board", content: "This is the first post!"},
